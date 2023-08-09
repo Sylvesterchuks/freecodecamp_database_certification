@@ -2,7 +2,7 @@
 For these courses, you will use real developer tools and software including VS Code, PostgreSQL, and the Linux / Unix command line to complete interactive tutorials and build projects.
 
 ## Courses
-<hr>
+
 ### Learn Bash by Building a Boilerplate
 The terminal allows you to send text commands to your computer that can manipulate the file system, run programs, automate tasks, and much more.
 In this 170-lesson course, you will learn terminal commands by creating a website boilerplate using only the command line.
