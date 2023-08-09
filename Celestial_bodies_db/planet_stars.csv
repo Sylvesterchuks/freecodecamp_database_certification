@@ -1,0 +1,50 @@
+Planet,Constellation,Star,star_id,Name
+Ceres,Leo,Regulus,254,Regulus
+Venus,Centaurus,Regulus,254,Regulus
+Orcus,Sagittarius,Kaus Australis,166,Kaus Australis
+Pluto,Sagittarius,Kaus Australis,166,Kaus Australis
+Salacia,Pegasus,Enif,131,Enif
+Haumea,Boötes,Arcturus,70,Arcturus
+Quaoar,Ophiuchus,Rasalhague,252,Rasalhague
+Gonggong,Aquarius,Sadalsuud,266,Sadalsuud
+Varda,Aquarius,Sadalsuud,266,Sadalsuud
+Neptune,Centaurus,Sadalsuud,266,Sadalsuud
+Eris,Cetus,Diphda,121,Diphda
+Jupiter,Centaurus,Diphda,121,Diphda
+Sedna,Taurus,Aldebaran,19,Aldebaran
+Mars,Centaurus,Aldebaran,19,Aldebaran
+Earth,Centaurus,Rigil Kentaurus,257,Rigil Kentaurus
+Mercury,Centaurus,Spica,285,Spica
+Saturn,Centaurus,Deneb,117,Deneb
+Uranus,Centaurus,Hamal,152,Hamal
+Majriti,Andromeda,Titawin,308,Titawin
+Saffar,Andromeda,Titawin,308,Titawin
+Samh,Andromeda,Titawin,308,Titawin
+Spe,Andromeda,Veritate,317,Veritate
+Fortitudo,Aquila,Libertas,179,Libertas
+Dulcinea,Ara,Cervantes,106,Cervantes
+Quijote,Ara,Cervantes,106,Cervantes
+Rocinante,Ara,Cervantes,106,Cervantes
+Sancho,Ara,Cervantes,106,Cervantes
+Meztli,Camelopardalis,Tonatiuh,310,Tonatiuh
+Brahe,Cancer,Copernicus,111,Copernicus
+Galileo,Cancer,Copernicus,111,Copernicus
+Harriot,Cancer,Copernicus,111,Copernicus
+Janssen,Cancer,Copernicus,111,Copernicus
+Lipperhey,Cancer,Copernicus,111,Copernicus
+Proxima Centauri b,Centaurus,Proxima Centauri,248,Proxima Centauri
+Tadmor,Cepheus,Errai,132,Errai
+Arion,Delphinus,Musica,220,Musica
+Hypatia,Draco,Edasich,125,Edasich
+Orbitar,Draco,Fafnir,133,Fafnir
+Aegir,Eridanus,Ran,249,Ran
+Thestias,Gemini,Pollux,242,Pollux
+Smertrios,Hercules,Ogma,229,Ogma
+Dimidium,Pegasus,Helvetios,155,Helvetios
+Amateru,Taurus,Ain,10,Ain
+Taphao Kaew,Ursa Major,Chalawan,107,Chalawan
+Taphao Thong,Ursa Major,Chalawan,107,Chalawan
+Arkas,Ursa Major,Intercrus,160,Intercrus
+Draugr,Virgo,Lich,180,Lich
+Phobetor,Virgo,Lich,180,Lich
+Poltergeist,Virgo,Lich,180,Lich

@@ -1,0 +1,158 @@
+moon_id,Name,Planet,Description,Discovered,Discoverer,Distance_from_planet(km),Diameter(km),Orbital_period(days),is_close_to_planet,planet_id
+1,Moon,Earth,“month”,-,-,384400,3475.0,27.322,True,8
+2,Phobos,Mars,Greek god of fear and panic,1877,Asaph Hall,9270,22.5,0.3189,True,17
+3,Deimos,Mars,Greek god of dread and terror,1877,Asaph Hall,23460,12.4,1.2624,True,17
+4,Io,Jupiter,"Ancestor to Perseus, Cadmus, Heracles, and Minos",1610,Galileo,421600,3629.0,1.769,True,14
+5,Europa,Jupiter,Mother of king Minos of Crete,1610,Galileo,670900,3126.0,3.551,True,14
+6,Ganymede,Jupiter,Male hero of Troy. Served as Zeus cup-bearer in Olympus,1610,Galileo,1070000,5276.0,7.155,True,14
+7,Callisto,Jupiter,One of the nymphs. Daughter of king Lycaon and one of Artemis followers,1610,Galileo,1883000,4800.0,16.689,True,14
+8,Amalthea,Jupiter,Foster-mother of Zeus,1892,E. Barnard,181300,134.0,0.498,True,14
+9,Himalia,Jupiter,"Nymph of the island of Rhodes. Had three sons with Zeus: Sparteus, Kronios and Kytos",1904,C. Perrine,11480000,170.0,250.57,True,14
+10,Elara,Jupiter,"Mortal princess, daughter of king Orchomenus and mother of the giant Tytios.",1905,C. Perrine,11737000,80.0,259.65,True,14
+11,Pasiphae,Jupiter,Queen of Crete. Daughter of Helios and mother of the minotaur.,1908,P. Melotte,23500000,36.0,735.0,False,14
+12,Sinope,Jupiter,Daughter of Ares and one of the Amazons. It is believed the Turkish city of Sinop is named after her.,1914,S. Nicholson,23700700,28.0,758.0,False,14
+13,Lysithea,Jupiter,Mother of Heracles and Zeus. Daughter of the titan Oceanus.,1938,S. Nicholson,11720000,24.0,259.22,True,14
+14,Carme,Jupiter,"Mother of Britomartis, goddess of mountains and hunting",1938,S. Nicholson,22600000,30.0,692.0,False,14
+15,Ananke,Jupiter,Personification of necessity. It also means “constrain” or “force”.,1951,S. Nicholson,21200000,20.0,631.0,False,14
+16,Leda,Jupiter,Aetolian princess and later Spartan queen.,1974,C. Kowal,11094000,10.0,238.72,True,14
+17,Thebe,Jupiter,Name used by a few of Zeus’ daughters. It is also the name of a city in central Greece.,1979,S. Synnott,221900,100.0,0.675,True,14
+18,Adrastea,Jupiter,Goddess of “inevitable fate”. Was in charge of nurturing and protecting Zeus.,1979,Jewitt & Danielson,128980,16.0,0.298,True,14
+19,Metis,Jupiter,First wife of Zeus and mother of Athena.,1979,S. Sunnott,127960,40.0,0.295,True,14
+20,Callirrhoe,Jupiter,One of the Oceanids (daughters of the titan Oceanus),2000,Spacewatch Project Minor Planet Center,24200000,10.0,774.0,False,14
+21,Themisto,Jupiter,Daughter of the river god Inachus.,1975,C. Kowal & E. Roemer,7507000,8.0,130.07,True,14
+22,Taygete,Jupiter,"One of the Pleiades, daughter of the titan Atlas.",2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",23360000,5.0,687.0,False,14
+23,Chaldene,Jupiter,Mother of the hero Solymos.,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",23179000,3.8,741.0,False,14
+24,Harpalyke,Jupiter,Princess of Arcadia.,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",21105000,4.3,595.0,False,14
+25,Kalyke,Jupiter,Alternatively written as Calyce. Thessalian princess. It is also the name of one of the nymphs.,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",23583000,5.2,760.0,False,14
+26,Iocaste,Jupiter,"Named after Jocasta, daughter of king Menoeceus and wife of Oedipus.",2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",21269000,5.2,657.0,False,14
+27,Erinome,Jupiter,"In her story, Venus compelled her to fall in love with Jupiter to ruin her.",2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",23279000,3.2,672.0,False,14
+28,Praxidike,Jupiter,Greek goddess of punishment.,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",21147000,6.8,632.0,False,14
+29,Autonoe,Jupiter,Theban princess and eldest daughter of Cadmus.,2001,"S. Sheppard, D. Jewitt, & J. Kleyna",24122000,4.0,753.0,False,14
+30,Thyone,Jupiter,Also known as Semele. Youngest daughter of Cadmus.,2001,"S. Sheppard, D. Jewitt, & J. Kleyna",21312000,4.0,615.0,False,14
+31,Hermippe,Jupiter,Daughter of Boetus. Had a son with Poseidon.,2001,"S. Sheppard, D. Jewitt, & J. Kleyna",21252000,4.0,630.0,False,14
+32,Aitne,Jupiter,The personification of mount Etna,2001,"S. Sheppard, D. Jewitt, & J. Kleyna",23547000,3.0,736.0,False,14
+33,Eurydome,Jupiter,"Also known as Eurynome or Euanthe. Mother of the Graces, goddesses of charm, beauty, goodwill, and creativity",2001,"S. Sheppard, D. Jewitt, & J. Kleyna",23219000,3.0,713.0,False,14
+34,Euanthe,Jupiter,See above,2001,"S. Sheppard, D. Jewitt, & J. Kleyna",21017000,3.0,622.0,False,14
+35,Euporie,Jupiter,Also known as Euporia. Greek goddess of abundance.,2001,"S. Sheppard, D. Jewitt, & J. Kleyna",19394000,2.0,534.0,False,14
+36,Orthosie,Jupiter,Greek goddess of prosperity and one of the Horae.,2001,"S. Sheppard, D. Jewitt, & J. Kleyna",21168000,2.0,617.0,False,14
+37,Sponde,Jupiter,One of the Horae (goddesses of seasons and time periods),2001,"S. Sheppard, D. Jewitt, & J. Kleyna",23808000,2.0,732.0,False,14
+38,Kale,Jupiter,"One of the Graces or Charities (goddesses of charm, beauty, goodwill, and creativity)",2001,"S. Sheppard, D. Jewitt, & J. Kleyna",23124000,2.0,609.0,False,14
+39,Pasithee,Jupiter,"One of the Graces or Charities (goddesses of charm, beauty, goodwill, and creativity)",2001,"S. Sheppard, D. Jewitt, & J. Kleyna",23029000,2.0,715.0,False,14
+40,Hegemone,Jupiter,"One of the Graces or Charities (goddesses of charm, beauty, goodwill, and creativity)",2003,"S. Sheppard, D. Jewitt, & J. Kleyna",24514095,3.0,781.6,False,14
+41,Mneme,Jupiter,"One of the three original muses (goddesses of literature, science, and arts)",2003,Scott S. Sheppard & B. Gladman,21069000,2.0,620.04,False,14
+42,Aoede,Jupiter,"One of the three original muses (goddesses of literature, science, and arts)",2003,"S. Sheppard, D. Jewitt, & J. Kleyna",23807655,4.0,748.8,False,14
+43,Thelxinoe,Jupiter,"One of the three original muses (goddesses of literature, science, and arts)",2003,Scott S. Sheppard & B. Gladman,21162000,2.0,628.09,False,14
+44,Arche,Jupiter,One of the muses,2002,S. Sheppard,23064000,3.0,715.6,False,14
+45,Kallichore,Jupiter,One of the nymphs,2003,"S. Sheppard, D. Jewitt, & J. Kleyna",22395390,2.0,683.0,False,14
+46,Helike,Jupiter,One of the nymphs,2003,"S. Sheppard, D. Jewitt, & J. Kleyna",10972830,4.0,233.8,True,14
+47,Carpo,Jupiter,Daughter of Zeus and one of the Horae (goddesses of the seasons),2003,"S. Sheppard, D. Jewitt, & J. Kleyna",17100000,3.0,456.5,False,14
+48,Eukelade,Jupiter,Also written as Eucelade. One of the muses,2003,"S. Sheppard, D. Jewitt, & J. Kleyna",24557295,4.0,746.4,False,14
+49,Cyllene,Jupiter,"A naiad (a spirit or nymph that hangs in rivers, lakes, streams or other water bodies)",2003,"S. Sheppard, D. Jewitt, & J. Kleyna",24000000,2.0,737.8,False,14
+50,Kore,Jupiter,"Alternativve name for Persephone, daughter of Zeus and wife to Hades which made her queen of the underworld.",2003,"S. Sheppard, D. Jewitt, & J. Kleyna",24543000,2.0,779.2,False,14
+51,Mimas,Saturn,One of the Gigantes (giants). Son of Gaia (Earth),1789,W. Herschel,185520,398.0,0.942,True,29
+52,Enceladus,Saturn,One of the Gigantes (giants). Son of Gaia (Earth) and Uranus (Sky),1789,W. Herschel,238020,498.0,1.37,True,29
+53,Tethys,Saturn,One of the Titans. Mother of the Oceanids.,1684,G. Cassini,294660,1060.0,1.888,True,29
+54,Dione,Saturn,One of the Titans,1684,G. Cassini,377400,1120.0,2.737,True,29
+55,Rhea,Saturn,One of the Titans. Older sister of Cronus.,1672,G. Cassini,527040,1528.0,4.518,True,29
+56,Titan,Saturn,Named after the Greek Titans,1655,C. Huygens,1221850,5150.0,15.945,True,29
+57,Hyperion,Saturn,"Titan god of observation. Father of Helios, Eos, and Selene (the Moon)",1848,W. Bond,1481000,226.0,21.277,True,29
+58,Iapetus,Saturn,One of the Titans. Father of Atlas and Prometheus. Also written as Japetus,1671,G. Cassini,3561300,1436.0,79.3215,True,29
+59,Phoebe,Saturn,One of the first generation Titaness. It means “shining” or “bright”. Original owner of the oracle of Delphi.,1898,W. Pickering,12952000,220.0,550.48,True,29
+60,Janus,Saturn,"Roman god of beginnings, duality, time, and doorways.",1966,A. Dollfus,151472,154.0,0.695,True,29
+61,Epimetheus,Saturn,One of the Titans. Brother of Prometheus,1966,R. Walker,151422,110.0,0.694,True,29
+62,Helene,Saturn,Named after Helen of Troy. Granddaughter of Cronus.,1980,Laques & Lecacheux,377400,28.0,2.737,True,29
+63,Telesto,Saturn,Personification of divine blessing and success. One of the Oceanids.,1980,B. Smith,294660,16.0,1.888,True,29
+64,Calypso,Saturn,A nymph who lived in the island of Ogygia,1980,B. Smith,294660,16.0,1.888,True,29
+65,Atlas,Saturn,One of the Titans. Condemned to hold up the sky for eternity after the Titanomachy,1980,R. Terrile,137640,27.0,0.602,True,29
+66,Prometheus,Saturn,One of the Titans. Known for stealing the fire of the gods and gifting it to humanity,1980,S. Collins,139350,68.0,0.613,True,29
+67,Pandora,Saturn,Also known as Anesidora.It means “she who sends up gifts”,1980,S. Collins,141700,62.0,0.629,True,29
+68,Pan,Saturn,"God of the wild, sheperds, and flocks.",1990,M. Showalter,133630,19.32,0.575,True,29
+69,Ymir,Saturn,"Ancestor to all the frost giants in Norse mythology. Also known as Aurgelmir, Brimir, or Bláinn",2000,Intl. Team of 8 Astronomers,23096000,20.0,1312.37,False,29
+70,Paaliaq,Saturn,Named after after a fictional shaman in the book The Curse of the Shaman,2000,Intl. Team of 8 Astronomers,15199000,25.0,686.92,True,29
+71,Tarvos,Saturn,A divine figure of a bulle with thre cranes perched on its back,2000,Intl. Team of 8 Astronomers,18239000,16.0,925.7,False,29
+72,Ijiraq,Saturn,Shapeshifting creature in Inuit mythology,2000,Intl. Team of 8 Astronomers,11440000,14.0,451.48,True,29
+73,Suttungr,Saturn,A Jötunn (giant) in Norse mythlogy,2000,Gladman et al.,19470000,7.0,1016.8,False,29
+74,Kiviuq,Saturn,A hero in Inuit mythology,2000,Intl. Team of 8 Astronomers,11365000,17.0,449.22,True,29
+75,Mundilfari,Saturn,Father of the Sun and the Moon in Norse mythology,2000,Intl. Team of 8 Astronomers,18709000,7.0,951.38,False,29
+76,Albiorix,Saturn,Named after a Gallic giant who was said to be “king of the world”,2000,Gladman et al.,16392000,30.0,783.0,True,29
+77,Skathi,Saturn,"Also known as Skadi or Skaði. A goddess associated with bowhunting, skiing, winter, and the mountains",2000,Intl. Team of 8 Astronomers,15645000,8.0,728.93,True,29
+78,Erriapus,Saturn,A giant in Gaulish (Celtic) mythology,2000,Intl. Team of 8 Astronomers,17611000,10.0,871.17,False,29
+79,Siarnaq,Saturn,Inuit goddess of the sea. Also kown as Sedna,2000,Intl. Team of 8 Astronomers,18160000,45.0,893.07,False,29
+80,Thrymr,Saturn,King of the Jǫtnar in Norse mythology,2000,Intl. Team of 8 Astronomers,20470000,7.0,1088.89,False,29
+81,Narvi,Saturn,"Named after Narfi, a Jötunn (giant) in Norse mythlogy",2003,"Scott S. Sheppard, David Jewitt, and Jan Kleyna",18719000,8.0,956.2,False,29
+82,Methone,Saturn,"One of the Alkyonides, the seven beatiful daughters of Alkyoneus",2004,C.C. Porco et al./Cassini,194000,3.0,1.01,True,29
+83,Pallene,Saturn,"One of the Alkyonides, the seven beatiful daughters of Alkyoneus",2004,C.C. Porco et al./Cassini,211000,4.0,1.14,True,29
+84,Polydeuces,Saturn,"Alternative name for Pollux, son of Zeus and Leda",2004,C.C. Porco et al./Cassini,377400,4.0,2.74,True,29
+85,Daphnis,Saturn,"A Sicilian sheperd, descendant of the Titans",2005,Cassini Imaging Science Team,136500,7.0,0.594,True,29
+86,Aegir,Saturn,Personification of the tranquil seas in Norse mythology,2005,"D. Jewitt, S. Sheppard, J. Kleyna",20735000,6.0,1116.5,False,29
+87,Bebhionn,Saturn,Irish goddess of birth,2005,"D. Jewitt, S. Sheppard, J. Kleyna",17119000,6.0,834.8,False,29
+88,Bergelmir,Saturn,A giant of Norse mythology. Grandsonof Ymir,2005,"D. Jewitt, S. Sheppard, J. Kleyna",19338000,6.0,1005.9,False,29
+89,Bestla,Saturn,Mother of Odin,2005,"D. Jewitt, S. Sheppard, J. Kleyna",20129000,7.0,1083.6,False,29
+90,Farbauti,Saturn,Father of Loki,2005,"D. Jewitt, S. Sheppard, J. Kleyna",20390000,5.0,1086.1,False,29
+91,Fenrir,Saturn,Giant wolf from Norse mythology,2005,"D. Jewitt, S. Sheppard, J. Kleyna",22453000,4.0,1260.3,False,29
+92,Fornjot,Saturn,A giant of Norse mythology,2005,"D. Jewitt, S. Sheppard, J. Kleyna",25108000,6.0,1490.9,False,29
+93,Hati,Saturn,Giant wolf from Norse mythology. Son of Fenrir,2005,"D. Jewitt, S. Sheppard, J. Kleyna",19856000,6.0,1038.7,False,29
+94,Hyrrokkin,Saturn,A female Jötunn (giant),2006,"S. Sheppard, D. Jewitt, J. Kleyna",18437000,8.0,931.8,False,29
+95,Kari,Saturn,Personification of wind in Norse mythology,2006,"S. Sheppard, D. Jewitt, J. Kleyna",22118000,7.0,1233.6,False,29
+96,Loge,Saturn,Also named Logi. A fire Jötunn (giant),2006,"S. Sheppard, D. Jewitt, J. Kleyna",23065000,6.0,1312.0,False,29
+97,Skoll,Saturn,Giant wolf from Norse mythology. Son of Fenrir,2006,"S. Sheppard, D. Jewitt, J. Kleyna",17665000,6.0,878.3,False,29
+98,Surtur,Saturn,Also known as Surt. Leader of the fire fire Jötunn (giants),2006,"S. Sheppard, D. Jewitt, J. Kleyna",22707000,6.0,1297.7,False,29
+99,Anthe,Saturn,"It means “flowery”. One of the Alkyonides, the seven beatiful daughters of Alkyoneus",2004,Cassini Imaging Team,197700,1.0,1.04,True,29
+100,Jarnsaxa,Saturn,A female Jötunn (giant),2006,"S. Sheppard, D. Jewitt, J. Kleyna",18811000,6.0,964.7,False,29
+101,Greip,Saturn,A female Jötunn (giant),2006,"S. Sheppard, D. Jewitt, J. Kleyna",18206000,6.0,921.2,False,29
+102,Tarqeq,Saturn,A lunar (moon) deity in Inuit mythology,2007,"S. Sheppard, D. Jewitt, J. Kleyna",18009000,7.0,887.5,False,29
+103,S/2004 S 12,Saturn,,2004,"D. Jewitt, S. Sheppard, J. Kleyna",19650000,5.0,1048.0,False,29
+104,S/2004 S 13,Saturn,,2004,"D. Jewitt, S. Sheppard, J. Kleyna",18450000,6.0,906.0,False,29
+105,S/2004 S 17,Saturn,,2004,"D. Jewitt, S. Sheppard, J. Kleyna",18600000,4.0,986.0,False,29
+106,S/2006 S 1,Saturn,,2006,"S. Sheppard, D. Jewitt, J. Kleyna",18981135,6.0,970.0,False,29
+107,S/2006 S 3,Saturn,,2006,"S. Sheppard, D. Jewitt, J. Kleyna",21132000,6.0,1142.0,False,29
+108,S/2007 S 2,Saturn,,2007,"S. Sheppard, D. Jewitt, J. Kleyna",16560000,6.0,800.0,True,29
+109,S/2007 S 3,Saturn,,2007,"S. Sheppard, D. Jewitt, J. Kleyna",20518500,5.0,1100.0,False,29
+110,Ariel,Uranus,Named after a character in Alexander Pope’s works.,1851,W. Lassell,191240,1160.0,2.52,True,36
+111,Umbriel,Uranus,Named after the “dusky melancholy sprite” in Alexander Pope’s works.,1851,W. Lassel,265970,1190.0,4.144,True,36
+112,Titania,Uranus,Named after a charcter in Shakespeare’s play A Midsummer Night’s Dream,1787,W. Herschel,435840,1578.0,8.706,True,36
+113,Oberon,Uranus,Named after a charcter in Shakespeare’s play A Midsummer Night’s Dream,1787,W. Herschel,582600,1526.0,13.463,True,36
+114,Miranda,Uranus,Named after a charcter in Shakespeare’s play The Tempest,1948,G. Kuiper,129780,472.0,1.414,True,36
+115,Cordelia,Uranus,Named after a charcter in Shakespeare’s play King Lear,1986,Voyager 2,49750,26.0,0.335,True,36
+116,Ophelia,Uranus,Named after a charcter in Shakespeare’s play Hamlet,1986,Voyager 2,53440,30.4,0.3764,True,36
+117,Bianca,Uranus,Named after a charcter in Shakespeare’s play The Taming of the Shrew,1986,Voyager 2,75260,42.0,0.433,True,36
+118,Cressida,Uranus,Named after a charcter in Shakespeare’s play Troilus and Cressida,1986,Voyager 2,61770,62.0,0.464,True,36
+119,Desdemona,Uranus,Named after a charcter in Shakespeare’s play Othello,1986,Voyager 2,62660,54.0,0.474,True,36
+120,Juliet,Uranus,Named after a charcter in Shakespeare’s play Romeo and Juliet,1986,Voyager 2,64360,84.0,0.493,True,36
+121,Portia,Uranus,Named after a charcter in Shakespeare’s play The Merchant of Venice,1986,Voyager 2,66085,108.0,0.513,True,36
+122,Rosalind,Uranus,Named after a charcter in Shakespeare’s play As You Like It,1986,Voyager 2,69941,54.0,0.558,True,36
+123,Belinda,Uranus,Named after a character in Alexander Pope’s works.,1986,Voyager 2,75260,66.0,0.624,True,36
+124,Puck,Uranus,Named after a charcter in Shakespeare’s play A Midsummer Night’s Dream,1985,Voyager 2,86010,154.0,0.762,True,36
+125,Caliban,Uranus,Named after a charcter in Shakespeare’s play The Tempest,1997,"Gladman, Nicholson, Burns, & Kavelaars",7200000,80.0,579.5,True,36
+126,Sycorax,Uranus,Named after a charcter in Shakespeare’s play The Tempest,1997,"Gladman, Nicholson, Burns, & Kavelaars",12200000,160.0,1283.39,True,36
+127,Prospero,Uranus,Named after a charcter in Shakespeare’s play The Tempest,1999,"Kavelaars, Gladman, Holman et al",16256000,30.0,5.346,True,36
+128,Setebos,Uranus,Named after a charcter in Shakespeare’s play The Tempest,1999,"Kavelaars, Gladman, Holman et al",17418000,47.0,2234.8,False,36
+129,Stephano,Uranus,Named after a charcter in Shakespeare’s play The Tempest,1999,"Kavelaars, Gladman, Holman et al",8004000,32.0,677.4,True,36
+130,Trinculo,Uranus,Named after a charcter in Shakespeare’s play The Tempest,2001,"M. Holman, J. Kavelaars & D. Milisavljevic",8578000,10.0,759.0,True,36
+131,Francisco,Uranus,Named after a charcter in Shakespeare’s play The Tempest,2001,M. Holman & B. Gladman et al,4276000,22.0,266.6,True,36
+132,Margaret,Uranus,Named after a charcter in Shakespeare’s play Much Ado About Nothing,2003,S. Sheppard,14688700,11.0,1694.8,True,36
+133,Ferdinand,Uranus,Named after a charcter in Shakespeare’s play The Tempest,2001,M. Holman & B. Gladman et al,20901000,21.0,2823.4,False,36
+134,Perdita,Uranus,Named after a charcter in Shakespeare’s play The Winter’s Tale,1986,E. Karkoschka/Voyager 2,76420,20.0,0.638,True,36
+135,Mab,Uranus,Named after a charcter in Shakespeare’s play Romeo and Juliet,2003,M. Showalter & J. Lissauer,97734,16.0,0.923,True,36
+136,Cupid,Uranus,Named after a charcter in Shakespeare’s play Timon of Athens,2003,M. Showalter & J. Lissauer,74800,12.0,0.618,True,36
+137,Triton,Neptune,Greek god of the sea. Son of Poseidon,1846,W. Lassel,354800,2705.0,5.877,True,20
+138,Nereid,Neptune,"Named after the Nereids, the sea-nymphs of Greek mythology",1949,G. Kuiper,5513400,340.0,360.16,True,20
+139,Naiad,Neptune,"Named after the Naiads, spirts or nymphs of rivers, seas, fountains, etc.",1989,Voyager 2,48200,50.0,0.3,True,20
+140,Thalassa,Neptune,Pre-Greek word for “sea” and its representation in mythology,1989,Voyager 2,50000,90.0,0.31,True,20
+141,Despina,Neptune,Also known as Despoina. One of Poseidon’s daughter,1989,Voyager 2,62000,160.0,0.4,True,20
+142,Galatea,Neptune,One of the Nereids in Greek mythology,1989,Voyager 2,52500,140.0,0.33,True,20
+143,Larissa,Neptune,Nymph from Thelassy in Greek mythology,1989,Voyager 2,73600,200.0,0.56,True,20
+144,Proteus,Neptune,Shape-changing sea god in Greek mythology,1989,Voyager 2,117600,420.0,1.12,True,20
+145,Halimede,Neptune,One of the Nereids in Greek mythology,2002,M. Holman & J.J. Kavelaars,15686000,60.0,1874.83,True,20
+146,Psamathe,Neptune,One of the Nereids in Greek mythology,2003,"D. Jewitt, J. Kleyna & S. Sheppard",46738000,38.0,9136.11,False,20
+147,Sao,Neptune,One of the Nereids. Associated with “safety” and “rescue” at sea.,2002,M. Holman & J.J. Kavelaars,22337190,38.0,2925.6,False,20
+148,Laomedeia,Neptune,One of the Nereids in Greek mythology,2002,M. Holman & J.J. Kavelaars,22613200,38.0,2980.4,False,20
+149,Neso,Neptune,One of the Nereids in Greek mythology,2002,Holman & Gladman et al,47279670,60.0,9007.1,False,20
+150,Charon,Pluto,﻿,1978,J. Christy,19571,1207.0,6.387,True,40
+151,Nix,Pluto,﻿,2005,"H.A. Weaver, S.A. Stern, et al.",48675,130.0,24.856,True,40
+152,Hydra,Pluto,﻿,2005,"H.A. Weaver, S.A. Stern, et al.",64780,130.0,38.206,True,40
+153,Kerberos,Pluto,﻿,2011,"Showalter, M. R. et al.",59000,34.0,32.1,True,40
+154,Styx,Pluto,﻿,2012,"Showalter, M. R. et al.",42000,25.0,20.2,True,40
+155,Hiʻiaka,Haumea,﻿,2005,"H.A. Weaver, S.A. Stern, et al.",49500,310.0,49.12,True,42
+156,Namaka,Haumea,﻿,2005,"H.A. Weaver, S.A. Stern, et al.",39000,170.0,34.7,True,42
+157,Dysnomia,Eris,﻿,2005,"M. Brown, M. van Dam, A. Bouches, D. Le Mignant",36000,300.0,14.0,True,45

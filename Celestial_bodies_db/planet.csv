@@ -1,0 +1,48 @@
+planet_id,Name,Star,Distance,Discovery,Meaning,star_id
+1,Amateru,Ain,155.0,2006.0,"From Amaterasu, the Japanese goddess of the sun",10
+2,Arion,Musica,238.0,2008.0,Ancient Greek poet,220
+3,Arkas,Intercrus,288.0,2007.0,One of the sons of Zeus and Callisto in Greek mythology,160
+4,Brahe,Copernicus,41.0,2004.0,Danish astronomer,111
+5,Dimidium,Helvetios,50.0,1995.0,From the latin word for “half”,155
+6,Draugr,Lich,2300.0,1994.0,From Norse mythology,180
+7,Dulcinea,Cervantes,50.0,2004.0,from the word for “sweet” in Spanish,106
+8,Earth,Centaurus,0.0,,“the ground”,257
+9,Fortitudo,Libertas,204.0,2007.0,Latin for “fortitude”,179
+10,Galileo,Copernicus,41.0,1996.0,Italian astronomer,111
+11,Harriot,Copernicus,41.0,2007.0,English astronomer,111
+12,Hypatia,Edasich,102.0,2002.0,Female Greek astronomer and philosopher,125
+13,Janssen,Copernicus,41.0,2004.0,Dutch astronomer,111
+14,Jupiter,Centaurus,0.0,,Roman equivalent to the Greek god Zeus,121
+15,Lipperhey,Copernicus,41.0,2002.0,Dutch lensmaker,111
+16,Majriti,Titawin,44.0,1999.0,Muslim astronomer,308
+17,Mars,Centaurus,0.0,,Roman equivalent of the Greek god Ares,19
+18,Mercury,Centaurus,0.0,,Roman equivalent of the Greek god Hermes,285
+19,Meztli,Tonatiuh,333.0,2003.0,Aztec god of the moon and the night,310
+20,Neptune,Centaurus,0.0,,Roman equivalent of the Greek god Poseidon,266
+21,Orbitar,Fafnir,317.0,2008.0,“to orbit”,133
+22,Phobetor,Lich,2300.0,1992.0,Greek myth,180
+23,Poltergeist,Lich,2300.0,1992.0,“noisy ghost” (Germany),180
+24,Quijote,Cervantes,50.0,2000.0,From Don Quixote,106
+25,Rocinante,Cervantes,50.0,2004.0,The horse of Don Quixote,106
+26,Saffar,Titawin,44.0,1996.0,Muslim astronomer,308
+27,Samh,Titawin,44.0,1999.0,Muslim astronomer,308
+28,Sancho,Cervantes,50.0,2006.0,Character from Don Quixote,106
+29,Saturn,Centaurus,0.0,,Roman equivalent to the Greek god Cronus,117
+30,Smertrios,Ogma,257.0,2005.0,Gallic god of war,229
+31,Spe,Veritate,249.0,2008.0,“Hope” (Latin),317
+32,Tadmor,Errai,45.0,2003.0,Modern Arabic name for Palmyra,132
+33,Taphao Kaew,Chalawan,46.0,2001.0,One of two sisters associated with a Thai folk tale,107
+34,Taphao Thong,Chalawan,46.0,1996.0,One of two sisters associated with a Thai folk tale,107
+35,Thestias,Pollux,34.0,2006.0,Greek myth,242
+36,Uranus,Centaurus,0.0,,Personification of the sky in Greek mythology,152
+37,Venus,Centaurus,0.0,,Roman equivalent of the Greek goddess Aphrodite,254
+38,Ceres,Leo,413.9,1801.0,Roman goddess of agriculture,254
+39,Orcus,Sagittarius,6500.0,2004.0,One of the Roman deities of the underworld,166
+40,Pluto,Sagittarius,5913.52,1930.0,Greek god of the underworld,166
+41,Salacia,Pegasus,6311.53,2004.0,Roman goddess of salt water. Consort to Neptune.,131
+42,Haumea,Bootes,6000.0,2004.0,Goddess of fertility and childbirth in Hawaiian mythology,70
+43,Quaoar,Ophiuchus,6400.0,2002.0,Mythological figure of the Mission Indians of coastal Southern California,252
+44,Gonggong,Aquarius,9997.62,2007.0,Chinese water god,266
+45,Eris,Cetus,10139.74,2005.0,Gree goddess of strife and discord,121
+46,Sedna,Taurus,75696.52,2003.0,Goddess of the sea in Inuit mythology,19
+47,Varda,Aquarius,,2003.0,"Queen of the Valar, creator of the stars in J.R.R. Tolkien’s books",266

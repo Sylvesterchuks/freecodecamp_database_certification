@@ -1,0 +1,803 @@
+constellation_id,Constellation,star_id,Name,galaxy_id,Galaxy
+1,Eridanus,1,Acamar,-1,
+2,Eridanus,2,Achernar,-1,
+3,Eridanus,66,Angetenar,-1,
+4,Eridanus,86,Azha,-1,
+5,Eridanus,90,Beemim,-1,
+6,Eridanus,91,Beid,-1,
+7,Eridanus,114,Cursa,-1,
+8,Eridanus,169,Keid,-1,
+9,Eridanus,249,Ran,-1,
+10,Eridanus,272,Sceptrum,-1,
+11,Eridanus,303,Theemin,-1,
+12,Eridanus,329,Zaurak,-1,
+13,Eridanus,332,Zibal,-1,
+14,Cassiopeia,3,Achird,50,Maffei I
+15,Cassiopeia,3,Achird,51,Maffei II
+16,Cassiopeia,101,Caph,50,Maffei I
+17,Cassiopeia,101,Caph,51,Maffei II
+18,Cassiopeia,103,Castula,50,Maffei I
+19,Cassiopeia,103,Castula,51,Maffei II
+20,Cassiopeia,138,Fulu,50,Maffei I
+21,Cassiopeia,138,Fulu,51,Maffei II
+22,Cassiopeia,259,Ruchbah,50,Maffei I
+23,Cassiopeia,259,Ruchbah,51,Maffei II
+24,Cassiopeia,274,Schedar,50,Maffei I
+25,Cassiopeia,274,Schedar,51,Maffei II
+26,Cassiopeia,276,Segin,50,Maffei I
+27,Cassiopeia,276,Segin,51,Maffei II
+28,Scorpius,4,Acrab,-1,
+29,Scorpius,44,Alniyat,-1,
+30,Scorpius,69,Antares,-1,
+31,Scorpius,122,Dschubba,-1,
+32,Scorpius,134,Fang,-1,
+33,Scorpius,141,Fuyue,-1,
+34,Scorpius,158,Iklil,-1,
+35,Scorpius,162,Jabbah,-1,
+36,Scorpius,177,Larawag,-1,
+37,Scorpius,178,Lesath,-1,
+38,Scorpius,231,Paikauhale,-1,
+39,Scorpius,237,Pipirima,-1,
+40,Scorpius,270,Sargas,-1,
+41,Scorpius,279,Shaula,-1,
+42,Scorpius,323,Xamidimura,-1,
+43,Crux,5,Acrux,-1,
+44,Crux,142,Gacrux,-1,
+45,Crux,145,Ginan,-1,
+46,Crux,159,Imai,-1,
+47,Crux,205,Mimosa,-1,
+48,Cancer,6,Acubens,-1,
+49,Cancer,75,Asellus Australis,-1,
+50,Cancer,76,Asellus Borealis,-1,
+51,Cancer,111,Copernicus,-1,
+52,Cancer,194,Meleph,-1,
+53,Cancer,221,Nahn,-1,
+54,Cancer,236,Piautos,-1,
+55,Cancer,298,Tarf,-1,
+56,Cancer,300,Tegmine,-1,
+57,Leo,7,Adhafera,22,Copeland Septet
+58,Leo,7,Adhafera,44,Leo I
+59,Leo,7,Adhafera,45,Leo II
+60,Leo,7,Adhafera,46,Leo III
+61,Leo,7,Adhafera,47,Leo Triplet
+62,Leo,27,Algieba,22,Copeland Septet
+63,Leo,27,Algieba,44,Leo I
+64,Leo,27,Algieba,45,Leo II
+65,Leo,27,Algieba,46,Leo III
+66,Leo,27,Algieba,47,Leo Triplet
+67,Leo,59,Alterf,22,Copeland Septet
+68,Leo,59,Alterf,44,Leo I
+69,Leo,59,Alterf,45,Leo II
+70,Leo,59,Alterf,46,Leo III
+71,Leo,59,Alterf,47,Leo Triplet
+72,Leo,110,Chertan,22,Copeland Septet
+73,Leo,110,Chertan,44,Leo I
+74,Leo,110,Chertan,45,Leo II
+75,Leo,110,Chertan,46,Leo III
+76,Leo,110,Chertan,47,Leo Triplet
+77,Leo,119,Denebola,22,Copeland Septet
+78,Leo,119,Denebola,44,Leo I
+79,Leo,119,Denebola,45,Leo II
+80,Leo,119,Denebola,46,Leo III
+81,Leo,119,Denebola,47,Leo Triplet
+82,Leo,250,Rasalas,22,Copeland Septet
+83,Leo,250,Rasalas,44,Leo I
+84,Leo,250,Rasalas,45,Leo II
+85,Leo,250,Rasalas,46,Leo III
+86,Leo,250,Rasalas,47,Leo Triplet
+87,Leo,254,Regulus,22,Copeland Septet
+88,Leo,254,Regulus,44,Leo I
+89,Leo,254,Regulus,45,Leo II
+90,Leo,254,Regulus,46,Leo III
+91,Leo,254,Regulus,47,Leo Triplet
+92,Leo,287,Subra,22,Copeland Septet
+93,Leo,287,Subra,44,Leo I
+94,Leo,287,Subra,45,Leo II
+95,Leo,287,Subra,46,Leo III
+96,Leo,287,Subra,47,Leo Triplet
+97,Leo,333,Zosma,22,Copeland Septet
+98,Leo,333,Zosma,44,Leo I
+99,Leo,333,Zosma,45,Leo II
+100,Leo,333,Zosma,46,Leo III
+101,Leo,333,Zosma,47,Leo Triplet
+102,Canis Major,8,Adhara,-1,
+103,Canis Major,60,Aludra,-1,
+104,Canis Major,140,Furud,-1,
+105,Canis Major,213,Mirzam,-1,
+106,Canis Major,217,Muliphein,-1,
+107,Canis Major,282,Sirius,-1,
+108,Canis Major,315,Unurgunite,-1,
+109,Canis Major,321,Wezen,-1,
+110,Andromeda,9,Adhil,56,Messier 110
+111,Andromeda,9,Adhil,57,Messier 32
+112,Andromeda,39,Almach,56,Messier 110
+113,Andromeda,39,Almach,57,Messier 32
+114,Andromeda,47,Alpheratz,56,Messier 110
+115,Andromeda,47,Alpheratz,57,Messier 32
+116,Andromeda,210,Mirach,56,Messier 110
+117,Andromeda,210,Mirach,57,Messier 32
+118,Andromeda,225,Nembus,56,Messier 110
+119,Andromeda,225,Nembus,57,Messier 32
+120,Andromeda,308,Titawin,56,Messier 110
+121,Andromeda,308,Titawin,57,Messier 32
+122,Andromeda,317,Veritate,56,Messier 110
+123,Andromeda,317,Veritate,57,Messier 32
+124,Taurus,10,Ain,-1,
+125,Taurus,18,Alcyone,-1,
+126,Taurus,19,Aldebaran,-1,
+127,Taurus,82,Atlas,-1,
+128,Taurus,105,Celaeno,-1,
+129,Taurus,108,Chamukuy,-1,
+130,Taurus,126,Electra,-1,
+131,Taurus,129,Elnath,-1,
+132,Taurus,184,Maia,-1,
+133,Taurus,202,Merope,-1,
+134,Taurus,238,Pleione,-1,
+135,Taurus,245,Prima Hyadum,-1,
+136,Taurus,275,Secunda Hyadum,-1,
+137,Taurus,299,Taygeta,-1,
+138,Taurus,306,Tianguan,-1,
+139,Sagittarius,11,Ainalrami,5,Barnard's Galaxy
+140,Sagittarius,11,Ainalrami,42,Kowal's Object
+141,Sagittarius,11,Ainalrami,68,Sagittarius Dwarf
+142,Sagittarius,11,Ainalrami,93,Milky Way
+143,Sagittarius,13,Albaldah,5,Barnard's Galaxy
+144,Sagittarius,13,Albaldah,42,Kowal's Object
+145,Sagittarius,13,Albaldah,68,Sagittarius Dwarf
+146,Sagittarius,13,Albaldah,93,Milky Way
+147,Sagittarius,41,Alnasl,5,Barnard's Galaxy
+148,Sagittarius,41,Alnasl,42,Kowal's Object
+149,Sagittarius,41,Alnasl,68,Sagittarius Dwarf
+150,Sagittarius,41,Alnasl,93,Milky Way
+151,Sagittarius,71,Arkab Posterior,5,Barnard's Galaxy
+152,Sagittarius,71,Arkab Posterior,42,Kowal's Object
+153,Sagittarius,71,Arkab Posterior,68,Sagittarius Dwarf
+154,Sagittarius,71,Arkab Posterior,93,Milky Way
+155,Sagittarius,72,Arkab Prior,5,Barnard's Galaxy
+156,Sagittarius,72,Arkab Prior,42,Kowal's Object
+157,Sagittarius,72,Arkab Prior,68,Sagittarius Dwarf
+158,Sagittarius,72,Arkab Prior,93,Milky Way
+159,Sagittarius,74,Ascella,5,Barnard's Galaxy
+160,Sagittarius,74,Ascella,42,Kowal's Object
+161,Sagittarius,74,Ascella,68,Sagittarius Dwarf
+162,Sagittarius,74,Ascella,93,Milky Way
+163,Sagittarius,166,Kaus Australis,5,Barnard's Galaxy
+164,Sagittarius,166,Kaus Australis,42,Kowal's Object
+165,Sagittarius,166,Kaus Australis,68,Sagittarius Dwarf
+166,Sagittarius,166,Kaus Australis,93,Milky Way
+167,Sagittarius,167,Kaus Borealis,5,Barnard's Galaxy
+168,Sagittarius,167,Kaus Borealis,42,Kowal's Object
+169,Sagittarius,167,Kaus Borealis,68,Sagittarius Dwarf
+170,Sagittarius,167,Kaus Borealis,93,Milky Way
+171,Sagittarius,168,Kaus Media,5,Barnard's Galaxy
+172,Sagittarius,168,Kaus Media,42,Kowal's Object
+173,Sagittarius,168,Kaus Media,68,Sagittarius Dwarf
+174,Sagittarius,168,Kaus Media,93,Milky Way
+175,Sagittarius,227,Nunki,5,Barnard's Galaxy
+176,Sagittarius,227,Nunki,42,Kowal's Object
+177,Sagittarius,227,Nunki,68,Sagittarius Dwarf
+178,Sagittarius,227,Nunki,93,Milky Way
+179,Sagittarius,241,Polis,5,Barnard's Galaxy
+180,Sagittarius,241,Polis,42,Kowal's Object
+181,Sagittarius,241,Polis,68,Sagittarius Dwarf
+182,Sagittarius,241,Polis,93,Milky Way
+183,Sagittarius,260,Rukbat,5,Barnard's Galaxy
+184,Sagittarius,260,Rukbat,42,Kowal's Object
+185,Sagittarius,260,Rukbat,68,Sagittarius Dwarf
+186,Sagittarius,260,Rukbat,93,Milky Way
+187,Sagittarius,302,Terebellum,5,Barnard's Galaxy
+188,Sagittarius,302,Terebellum,42,Kowal's Object
+189,Sagittarius,302,Terebellum,68,Sagittarius Dwarf
+190,Sagittarius,302,Terebellum,93,Milky Way
+191,Lyra,12,Aladfar,-1,
+192,Lyra,280,Sheliak,-1,
+193,Lyra,289,Sulafat,-1,
+194,Lyra,316,Vega,-1,
+195,Aquarius,14,Albali,2,Aquarius Dwarf
+196,Aquarius,14,Albali,3,Atoms-for-Peace
+197,Aquarius,65,Ancha,2,Aquarius Dwarf
+198,Aquarius,65,Ancha,3,Atoms-for-Peace
+199,Aquarius,98,Bunda,2,Aquarius Dwarf
+200,Aquarius,98,Bunda,3,Atoms-for-Peace
+201,Aquarius,263,Sadachbia,2,Aquarius Dwarf
+202,Aquarius,263,Sadachbia,3,Atoms-for-Peace
+203,Aquarius,265,Sadalmelik,2,Aquarius Dwarf
+204,Aquarius,265,Sadalmelik,3,Atoms-for-Peace
+205,Aquarius,266,Sadalsuud,2,Aquarius Dwarf
+206,Aquarius,266,Sadalsuud,3,Atoms-for-Peace
+207,Aquarius,283,Situla,2,Aquarius Dwarf
+208,Aquarius,283,Situla,3,Atoms-for-Peace
+209,Aquarius,284,Skat,2,Aquarius Dwarf
+210,Aquarius,284,Skat,3,Atoms-for-Peace
+211,Cygnus,15,Albireo,24,Cygnus A
+212,Cygnus,15,Albireo,29,Fireworks Galaxy
+213,Cygnus,32,Aljanah,24,Cygnus A
+214,Cygnus,32,Aljanah,29,Fireworks Galaxy
+215,Cygnus,85,Azelfafage,24,Cygnus A
+216,Cygnus,85,Azelfafage,29,Fireworks Galaxy
+217,Cygnus,117,Deneb,24,Cygnus A
+218,Cygnus,117,Deneb,29,Fireworks Galaxy
+219,Cygnus,135,Fawaris,24,Cygnus A
+220,Cygnus,135,Fawaris,29,Fireworks Galaxy
+221,Cygnus,267,Sadr,24,Cygnus A
+222,Cygnus,267,Sadr,29,Fireworks Galaxy
+223,Corvus,16,Alchiba,1,Antennae Galaxies
+224,Corvus,29,Algorab,1,Antennae Galaxies
+225,Corvus,144,Gienah,1,Antennae Galaxies
+226,Corvus,174,Kraz,1,Antennae Galaxies
+227,Ursa Major,17,Alcor,8,Bode's Galaxy
+228,Ursa Major,17,Alcor,16,Cigar Galaxy
+229,Ursa Major,17,Alcor,18,Coddington's Nebula
+230,Ursa Major,17,Alcor,35,Helix Galaxy
+231,Ursa Major,17,Alcor,41,Keenan's System
+232,Ursa Major,17,Alcor,53,Mayall's Object
+233,Ursa Major,17,Alcor,55,Medusa Merger
+234,Ursa Major,17,Alcor,64,Pinwheel Galaxy
+235,Ursa Major,17,Alcor,85,The Guitar
+236,Ursa Major,17,Alcor,90,Whirlpool Galaxy
+237,Ursa Major,31,Alioth,8,Bode's Galaxy
+238,Ursa Major,31,Alioth,16,Cigar Galaxy
+239,Ursa Major,31,Alioth,18,Coddington's Nebula
+240,Ursa Major,31,Alioth,35,Helix Galaxy
+241,Ursa Major,31,Alioth,41,Keenan's System
+242,Ursa Major,31,Alioth,53,Mayall's Object
+243,Ursa Major,31,Alioth,55,Medusa Merger
+244,Ursa Major,31,Alioth,64,Pinwheel Galaxy
+245,Ursa Major,31,Alioth,85,The Guitar
+246,Ursa Major,31,Alioth,90,Whirlpool Galaxy
+247,Ursa Major,33,Alkaid,8,Bode's Galaxy
+248,Ursa Major,33,Alkaid,16,Cigar Galaxy
+249,Ursa Major,33,Alkaid,18,Coddington's Nebula
+250,Ursa Major,33,Alkaid,35,Helix Galaxy
+251,Ursa Major,33,Alkaid,41,Keenan's System
+252,Ursa Major,33,Alkaid,53,Mayall's Object
+253,Ursa Major,33,Alkaid,55,Medusa Merger
+254,Ursa Major,33,Alkaid,64,Pinwheel Galaxy
+255,Ursa Major,33,Alkaid,85,The Guitar
+256,Ursa Major,33,Alkaid,90,Whirlpool Galaxy
+257,Ursa Major,35,Alkaphrah,8,Bode's Galaxy
+258,Ursa Major,35,Alkaphrah,16,Cigar Galaxy
+259,Ursa Major,35,Alkaphrah,18,Coddington's Nebula
+260,Ursa Major,35,Alkaphrah,35,Helix Galaxy
+261,Ursa Major,35,Alkaphrah,41,Keenan's System
+262,Ursa Major,35,Alkaphrah,53,Mayall's Object
+263,Ursa Major,35,Alkaphrah,55,Medusa Merger
+264,Ursa Major,35,Alkaphrah,64,Pinwheel Galaxy
+265,Ursa Major,35,Alkaphrah,85,The Guitar
+266,Ursa Major,35,Alkaphrah,90,Whirlpool Galaxy
+267,Ursa Major,61,Alula Australis,8,Bode's Galaxy
+268,Ursa Major,61,Alula Australis,16,Cigar Galaxy
+269,Ursa Major,61,Alula Australis,18,Coddington's Nebula
+270,Ursa Major,61,Alula Australis,35,Helix Galaxy
+271,Ursa Major,61,Alula Australis,41,Keenan's System
+272,Ursa Major,61,Alula Australis,53,Mayall's Object
+273,Ursa Major,61,Alula Australis,55,Medusa Merger
+274,Ursa Major,61,Alula Australis,64,Pinwheel Galaxy
+275,Ursa Major,61,Alula Australis,85,The Guitar
+276,Ursa Major,61,Alula Australis,90,Whirlpool Galaxy
+277,Ursa Major,62,Alula Borealis,8,Bode's Galaxy
+278,Ursa Major,62,Alula Borealis,16,Cigar Galaxy
+279,Ursa Major,62,Alula Borealis,18,Coddington's Nebula
+280,Ursa Major,62,Alula Borealis,35,Helix Galaxy
+281,Ursa Major,62,Alula Borealis,41,Keenan's System
+282,Ursa Major,62,Alula Borealis,53,Mayall's Object
+283,Ursa Major,62,Alula Borealis,55,Medusa Merger
+284,Ursa Major,62,Alula Borealis,64,Pinwheel Galaxy
+285,Ursa Major,62,Alula Borealis,85,The Guitar
+286,Ursa Major,62,Alula Borealis,90,Whirlpool Galaxy
+287,Ursa Major,107,Chalawan,8,Bode's Galaxy
+288,Ursa Major,107,Chalawan,16,Cigar Galaxy
+289,Ursa Major,107,Chalawan,18,Coddington's Nebula
+290,Ursa Major,107,Chalawan,35,Helix Galaxy
+291,Ursa Major,107,Chalawan,41,Keenan's System
+292,Ursa Major,107,Chalawan,53,Mayall's Object
+293,Ursa Major,107,Chalawan,55,Medusa Merger
+294,Ursa Major,107,Chalawan,64,Pinwheel Galaxy
+295,Ursa Major,107,Chalawan,85,The Guitar
+296,Ursa Major,107,Chalawan,90,Whirlpool Galaxy
+297,Ursa Major,123,Dubhe,8,Bode's Galaxy
+298,Ursa Major,123,Dubhe,16,Cigar Galaxy
+299,Ursa Major,123,Dubhe,18,Coddington's Nebula
+300,Ursa Major,123,Dubhe,35,Helix Galaxy
+301,Ursa Major,123,Dubhe,41,Keenan's System
+302,Ursa Major,123,Dubhe,53,Mayall's Object
+303,Ursa Major,123,Dubhe,55,Medusa Merger
+304,Ursa Major,123,Dubhe,64,Pinwheel Galaxy
+305,Ursa Major,123,Dubhe,85,The Guitar
+306,Ursa Major,123,Dubhe,90,Whirlpool Galaxy
+307,Ursa Major,160,Intercrus,8,Bode's Galaxy
+308,Ursa Major,160,Intercrus,16,Cigar Galaxy
+309,Ursa Major,160,Intercrus,18,Coddington's Nebula
+310,Ursa Major,160,Intercrus,35,Helix Galaxy
+311,Ursa Major,160,Intercrus,41,Keenan's System
+312,Ursa Major,160,Intercrus,53,Mayall's Object
+313,Ursa Major,160,Intercrus,55,Medusa Merger
+314,Ursa Major,160,Intercrus,64,Pinwheel Galaxy
+315,Ursa Major,160,Intercrus,85,The Guitar
+316,Ursa Major,160,Intercrus,90,Whirlpool Galaxy
+317,Ursa Major,191,Megrez,8,Bode's Galaxy
+318,Ursa Major,191,Megrez,16,Cigar Galaxy
+319,Ursa Major,191,Megrez,18,Coddington's Nebula
+320,Ursa Major,191,Megrez,35,Helix Galaxy
+321,Ursa Major,191,Megrez,41,Keenan's System
+322,Ursa Major,191,Megrez,53,Mayall's Object
+323,Ursa Major,191,Megrez,55,Medusa Merger
+324,Ursa Major,191,Megrez,64,Pinwheel Galaxy
+325,Ursa Major,191,Megrez,85,The Guitar
+326,Ursa Major,191,Megrez,90,Whirlpool Galaxy
+327,Ursa Major,199,Merak,8,Bode's Galaxy
+328,Ursa Major,199,Merak,16,Cigar Galaxy
+329,Ursa Major,199,Merak,18,Coddington's Nebula
+330,Ursa Major,199,Merak,35,Helix Galaxy
+331,Ursa Major,199,Merak,41,Keenan's System
+332,Ursa Major,199,Merak,53,Mayall's Object
+333,Ursa Major,199,Merak,55,Medusa Merger
+334,Ursa Major,199,Merak,64,Pinwheel Galaxy
+335,Ursa Major,199,Merak,85,The Guitar
+336,Ursa Major,199,Merak,90,Whirlpool Galaxy
+337,Ursa Major,215,Mizar,8,Bode's Galaxy
+338,Ursa Major,215,Mizar,16,Cigar Galaxy
+339,Ursa Major,215,Mizar,18,Coddington's Nebula
+340,Ursa Major,215,Mizar,35,Helix Galaxy
+341,Ursa Major,215,Mizar,41,Keenan's System
+342,Ursa Major,215,Mizar,53,Mayall's Object
+343,Ursa Major,215,Mizar,55,Medusa Merger
+344,Ursa Major,215,Mizar,64,Pinwheel Galaxy
+345,Ursa Major,215,Mizar,85,The Guitar
+346,Ursa Major,215,Mizar,90,Whirlpool Galaxy
+347,Ursa Major,219,Muscida,8,Bode's Galaxy
+348,Ursa Major,219,Muscida,16,Cigar Galaxy
+349,Ursa Major,219,Muscida,18,Coddington's Nebula
+350,Ursa Major,219,Muscida,35,Helix Galaxy
+351,Ursa Major,219,Muscida,41,Keenan's System
+352,Ursa Major,219,Muscida,53,Mayall's Object
+353,Ursa Major,219,Muscida,55,Medusa Merger
+354,Ursa Major,219,Muscida,64,Pinwheel Galaxy
+355,Ursa Major,219,Muscida,85,The Guitar
+356,Ursa Major,219,Muscida,90,Whirlpool Galaxy
+357,Ursa Major,234,Phecda,8,Bode's Galaxy
+358,Ursa Major,234,Phecda,16,Cigar Galaxy
+359,Ursa Major,234,Phecda,18,Coddington's Nebula
+360,Ursa Major,234,Phecda,35,Helix Galaxy
+361,Ursa Major,234,Phecda,41,Keenan's System
+362,Ursa Major,234,Phecda,53,Mayall's Object
+363,Ursa Major,234,Phecda,55,Medusa Merger
+364,Ursa Major,234,Phecda,64,Pinwheel Galaxy
+365,Ursa Major,234,Phecda,85,The Guitar
+366,Ursa Major,234,Phecda,90,Whirlpool Galaxy
+367,Ursa Major,292,Taiyangshou,8,Bode's Galaxy
+368,Ursa Major,292,Taiyangshou,16,Cigar Galaxy
+369,Ursa Major,292,Taiyangshou,18,Coddington's Nebula
+370,Ursa Major,292,Taiyangshou,35,Helix Galaxy
+371,Ursa Major,292,Taiyangshou,41,Keenan's System
+372,Ursa Major,292,Taiyangshou,53,Mayall's Object
+373,Ursa Major,292,Taiyangshou,55,Medusa Merger
+374,Ursa Major,292,Taiyangshou,64,Pinwheel Galaxy
+375,Ursa Major,292,Taiyangshou,85,The Guitar
+376,Ursa Major,292,Taiyangshou,90,Whirlpool Galaxy
+377,Ursa Major,294,Talitha,8,Bode's Galaxy
+378,Ursa Major,294,Talitha,16,Cigar Galaxy
+379,Ursa Major,294,Talitha,18,Coddington's Nebula
+380,Ursa Major,294,Talitha,35,Helix Galaxy
+381,Ursa Major,294,Talitha,41,Keenan's System
+382,Ursa Major,294,Talitha,53,Mayall's Object
+383,Ursa Major,294,Talitha,55,Medusa Merger
+384,Ursa Major,294,Talitha,64,Pinwheel Galaxy
+385,Ursa Major,294,Talitha,85,The Guitar
+386,Ursa Major,294,Talitha,90,Whirlpool Galaxy
+387,Ursa Major,295,Tania Australis,8,Bode's Galaxy
+388,Ursa Major,295,Tania Australis,16,Cigar Galaxy
+389,Ursa Major,295,Tania Australis,18,Coddington's Nebula
+390,Ursa Major,295,Tania Australis,35,Helix Galaxy
+391,Ursa Major,295,Tania Australis,41,Keenan's System
+392,Ursa Major,295,Tania Australis,53,Mayall's Object
+393,Ursa Major,295,Tania Australis,55,Medusa Merger
+394,Ursa Major,295,Tania Australis,64,Pinwheel Galaxy
+395,Ursa Major,295,Tania Australis,85,The Guitar
+396,Ursa Major,295,Tania Australis,90,Whirlpool Galaxy
+397,Ursa Major,296,Tania Borealis,8,Bode's Galaxy
+398,Ursa Major,296,Tania Borealis,16,Cigar Galaxy
+399,Ursa Major,296,Tania Borealis,18,Coddington's Nebula
+400,Ursa Major,296,Tania Borealis,35,Helix Galaxy
+401,Ursa Major,296,Tania Borealis,41,Keenan's System
+402,Ursa Major,296,Tania Borealis,53,Mayall's Object
+403,Ursa Major,296,Tania Borealis,55,Medusa Merger
+404,Ursa Major,296,Tania Borealis,64,Pinwheel Galaxy
+405,Ursa Major,296,Tania Borealis,85,The Guitar
+406,Ursa Major,296,Tania Borealis,90,Whirlpool Galaxy
+407,Cepheus,20,Alderamin,-1,
+408,Cepheus,24,Alfirk,-1,
+409,Cepheus,132,Errai,-1,
+410,Cepheus,175,Kurhah,-1,
+411,Grus,21,Aldhanab,33,Grus Quartet
+412,Grus,40,Alnair,33,Grus Quartet
+413,Grus,305,Tiaki,33,Grus Quartet
+414,Draco,22,Aldhibah,25,Draco Dwarf
+415,Draco,22,Aldhibah,78,Spindle Galaxy
+416,Draco,22,Aldhibah,79,Spindle Galaxy
+417,Draco,22,Aldhibah,84,Tadpole Galaxy
+418,Draco,49,Alrakis,25,Draco Dwarf
+419,Draco,49,Alrakis,78,Spindle Galaxy
+420,Draco,49,Alrakis,79,Spindle Galaxy
+421,Draco,49,Alrakis,84,Tadpole Galaxy
+422,Draco,51,Alruba,25,Draco Dwarf
+423,Draco,51,Alruba,78,Spindle Galaxy
+424,Draco,51,Alruba,79,Spindle Galaxy
+425,Draco,51,Alruba,84,Tadpole Galaxy
+426,Draco,52,Alsafi,25,Draco Dwarf
+427,Draco,52,Alsafi,78,Spindle Galaxy
+428,Draco,52,Alsafi,79,Spindle Galaxy
+429,Draco,52,Alsafi,84,Tadpole Galaxy
+430,Draco,58,Altais,25,Draco Dwarf
+431,Draco,58,Altais,78,Spindle Galaxy
+432,Draco,58,Altais,79,Spindle Galaxy
+433,Draco,58,Altais,84,Tadpole Galaxy
+434,Draco,80,Athebyne,25,Draco Dwarf
+435,Draco,80,Athebyne,78,Spindle Galaxy
+436,Draco,80,Athebyne,79,Spindle Galaxy
+437,Draco,80,Athebyne,84,Tadpole Galaxy
+438,Draco,124,Dziban,25,Draco Dwarf
+439,Draco,124,Dziban,78,Spindle Galaxy
+440,Draco,124,Dziban,79,Spindle Galaxy
+441,Draco,124,Dziban,84,Tadpole Galaxy
+442,Draco,125,Edasich,25,Draco Dwarf
+443,Draco,125,Edasich,78,Spindle Galaxy
+444,Draco,125,Edasich,79,Spindle Galaxy
+445,Draco,125,Edasich,84,Tadpole Galaxy
+446,Draco,130,Eltanin,25,Draco Dwarf
+447,Draco,130,Eltanin,78,Spindle Galaxy
+448,Draco,130,Eltanin,79,Spindle Galaxy
+449,Draco,130,Eltanin,84,Tadpole Galaxy
+450,Draco,133,Fafnir,25,Draco Dwarf
+451,Draco,133,Fafnir,78,Spindle Galaxy
+452,Draco,133,Fafnir,79,Spindle Galaxy
+453,Draco,133,Fafnir,84,Tadpole Galaxy
+454,Draco,143,Giausar,25,Draco Dwarf
+455,Draco,143,Giausar,78,Spindle Galaxy
+456,Draco,143,Giausar,79,Spindle Galaxy
+457,Draco,143,Giausar,84,Tadpole Galaxy
+458,Draco,147,Grumium,25,Draco Dwarf
+459,Draco,147,Grumium,78,Spindle Galaxy
+460,Draco,147,Grumium,79,Spindle Galaxy
+461,Draco,147,Grumium,84,Tadpole Galaxy
+462,Draco,253,Rastaban,25,Draco Dwarf
+463,Draco,253,Rastaban,78,Spindle Galaxy
+464,Draco,253,Rastaban,79,Spindle Galaxy
+465,Draco,253,Rastaban,84,Tadpole Galaxy
+466,Draco,293,Taiyi,25,Draco Dwarf
+467,Draco,293,Taiyi,78,Spindle Galaxy
+468,Draco,293,Taiyi,79,Spindle Galaxy
+469,Draco,293,Taiyi,84,Tadpole Galaxy
+470,Draco,304,Thuban,25,Draco Dwarf
+471,Draco,304,Thuban,78,Spindle Galaxy
+472,Draco,304,Thuban,79,Spindle Galaxy
+473,Draco,304,Thuban,84,Tadpole Galaxy
+474,Draco,307,Tianyi,25,Draco Dwarf
+475,Draco,307,Tianyi,78,Spindle Galaxy
+476,Draco,307,Tianyi,79,Spindle Galaxy
+477,Draco,307,Tianyi,84,Tadpole Galaxy
+478,Delphinus,23,Aldulfin,-1,
+479,Delphinus,220,Musica,-1,
+480,Delphinus,258,Rotanev,-1,
+481,Delphinus,286,Sualocin,-1,
+482,Capricornus,25,Algedi,-1,
+483,Capricornus,56,Alshat,-1,
+484,Capricornus,115,Dabih,-1,
+485,Capricornus,118,Deneb Algedi,-1,
+486,Capricornus,223,Nashira,-1,
+487,Pegasus,26,Algenib,49,Little Sombrero Galaxy
+488,Pegasus,26,Algenib,61,Pegasus Dwarf
+489,Pegasus,26,Algenib,82,Stephan's Quintet
+490,Pegasus,36,Alkarab,49,Little Sombrero Galaxy
+491,Pegasus,36,Alkarab,61,Pegasus Dwarf
+492,Pegasus,36,Alkarab,82,Stephan's Quintet
+493,Pegasus,95,Biham,49,Little Sombrero Galaxy
+494,Pegasus,95,Biham,61,Pegasus Dwarf
+495,Pegasus,95,Biham,82,Stephan's Quintet
+496,Pegasus,131,Enif,49,Little Sombrero Galaxy
+497,Pegasus,131,Enif,61,Pegasus Dwarf
+498,Pegasus,131,Enif,82,Stephan's Quintet
+499,Pegasus,155,Helvetios,49,Little Sombrero Galaxy
+500,Pegasus,155,Helvetios,61,Pegasus Dwarf
+501,Pegasus,155,Helvetios,82,Stephan's Quintet
+502,Pegasus,157,Homam,49,Little Sombrero Galaxy
+503,Pegasus,157,Homam,61,Pegasus Dwarf
+504,Pegasus,157,Homam,82,Stephan's Quintet
+505,Pegasus,186,Markab,49,Little Sombrero Galaxy
+506,Pegasus,186,Markab,61,Pegasus Dwarf
+507,Pegasus,186,Markab,82,Stephan's Quintet
+508,Pegasus,189,Matar,49,Little Sombrero Galaxy
+509,Pegasus,189,Matar,61,Pegasus Dwarf
+510,Pegasus,189,Matar,82,Stephan's Quintet
+511,Pegasus,264,Sadalbari,49,Little Sombrero Galaxy
+512,Pegasus,264,Sadalbari,61,Pegasus Dwarf
+513,Pegasus,264,Sadalbari,82,Stephan's Quintet
+514,Pegasus,269,Salm,49,Little Sombrero Galaxy
+515,Pegasus,269,Salm,61,Pegasus Dwarf
+516,Pegasus,269,Salm,82,Stephan's Quintet
+517,Pegasus,273,Scheat,49,Little Sombrero Galaxy
+518,Pegasus,273,Scheat,61,Pegasus Dwarf
+519,Pegasus,273,Scheat,82,Stephan's Quintet
+520,Perseus,28,Algol,62,Perseus A
+521,Perseus,81,Atik,62,Perseus A
+522,Perseus,198,Menkib,62,Perseus A
+523,Perseus,211,Miram,62,Perseus A
+524,Perseus,212,Mirfak,62,Perseus A
+525,Perseus,214,Misam,62,Perseus A
+526,Gemini,30,Alhena,-1,
+527,Gemini,64,Alzirr,-1,
+528,Gemini,102,Castor,-1,
+529,Gemini,163,Jishui,-1,
+530,Gemini,190,Mebsuta,-1,
+531,Gemini,193,Mekbuda,-1,
+532,Gemini,242,Pollux,-1,
+533,Gemini,247,Propus,-1,
+534,Gemini,301,Tejat,-1,
+535,Gemini,319,Wasat,-1,
+536,Bootes,34,Alkalurops,-1,
+537,Bootes,70,Arcturus,-1,
+538,Bootes,161,Izar,-1,
+539,Bootes,200,Merga,-1,
+540,Bootes,218,Muphrid,-1,
+541,Bootes,224,Nekkar,-1,
+542,Bootes,277,Seginus,-1,
+543,Bootes,324,Xuange,-1,
+544,Crater,37,Alkes,-1,
+545,Auriga,38,Almaaz,-1,
+546,Auriga,100,Capella,-1,
+547,Auriga,151,Haedus,-1,
+548,Auriga,153,Hassaleh,-1,
+549,Auriga,183,Mahasim,-1,
+550,Auriga,195,Menkalinan,-1,
+551,Auriga,262,Saclateni,-1,
+552,Orion,42,Alnilam,-1,
+553,Orion,43,Alnitak,-1,
+554,Orion,92,Bellatrix,-1,
+555,Orion,93,Betelgeuse,-1,
+556,Orion,154,Hatysa,-1,
+557,Orion,192,Meissa,-1,
+558,Orion,208,Mintaka,-1,
+559,Orion,256,Rigel,-1,
+560,Orion,268,Saiph,-1,
+561,Orion,291,Tabit,-1,
+562,Hydra,45,Alphard,39,Hydra A
+563,Hydra,45,Alphard,77,Southern Pinwheel Galaxy
+564,Hydra,77,Ashlesha,39,Hydra A
+565,Hydra,77,Ashlesha,77,Southern Pinwheel Galaxy
+566,Hydra,136,Felis,39,Hydra A
+567,Hydra,136,Felis,77,Southern Pinwheel Galaxy
+568,Hydra,206,Minchir,39,Hydra A
+569,Hydra,206,Minchir,77,Southern Pinwheel Galaxy
+570,Hydra,313,Ukdah,39,Hydra A
+571,Hydra,313,Ukdah,77,Southern Pinwheel Galaxy
+572,Hydra,331,Zhang,39,Hydra A
+573,Hydra,331,Zhang,77,Southern Pinwheel Galaxy
+574,Corona Borealis,46,Alphecca,-1,
+575,Corona Borealis,228,Nusakan,-1,
+576,Pisces,48,Alpherg,65,Pisces Cloud
+577,Pisces,48,Alpherg,66,Pisces Dwarf
+578,Pisces,50,Alrescha,65,Pisces Cloud
+579,Pisces,50,Alrescha,66,Pisces Dwarf
+580,Pisces,139,Fumalsamakah,65,Pisces Cloud
+581,Pisces,139,Fumalsamakah,66,Pisces Dwarf
+582,Pisces,255,Revati,65,Pisces Cloud
+583,Pisces,255,Revati,66,Pisces Dwarf
+584,Pisces,311,Torcular,65,Pisces Cloud
+585,Pisces,311,Torcular,66,Pisces Dwarf
+586,Lynx,53,Alsciaukat,6,Bear's Paw
+587,Vela,54,Alsephina,-1,
+588,Vela,187,Markeb,-1,
+589,Vela,288,Suhail,-1,
+590,Aquila,55,Alshain,-1,
+591,Aquila,57,Altair,-1,
+592,Aquila,179,Libertas,-1,
+593,Aquila,230,Okab,-1,
+594,Aquila,297,Tarazed,-1,
+595,Serpens,63,Alya,37,Hoag's Object
+596,Serpens,63,Alya,74,Seyfert's Sextet
+597,Serpens,148,Gudja,37,Hoag's Object
+598,Serpens,148,Gudja,74,Seyfert's Sextet
+599,Serpens,314,Unukalhai,37,Hoag's Object
+600,Serpens,314,Unukalhai,74,Seyfert's Sextet
+601,Phoenix,67,Ankaa,63,Phoenix Dwarf
+602,Phoenix,322,Wurren,63,Phoenix Dwarf
+603,Vulpecula,68,Anser,-1,
+604,Lepus,73,Arneb,-1,
+605,Lepus,226,Nihal,-1,
+606,Carina,78,Aspidiske,12,Carina Dwarf
+607,Carina,84,Avior,12,Carina Dwarf
+608,Carina,99,Canopus,12,Carina Dwarf
+609,Carina,204,Miaplacidus,12,Carina Dwarf
+610,,79,Asterope,-1,
+611,Triangulum Australe,83,Atria,-1,
+612,Puppis,87,Azmidi,-1,
+613,Puppis,222,Naos,-1,
+614,Puppis,312,Tureis,-1,
+615,Ophiuchus,88,Barnard’s Star,-1,
+616,Ophiuchus,104,Cebalrai,-1,
+617,Ophiuchus,149,Guniibuu,-1,
+618,Ophiuchus,185,Marfik,-1,
+619,Ophiuchus,252,Rasalhague,-1,
+620,Ophiuchus,261,Sabik,-1,
+621,Ophiuchus,325,Yed Posterior,-1,
+622,Ophiuchus,326,Yed Prior,-1,
+623,Cetus,89,Baten Kaitos,15,Cetus A
+624,Cetus,89,Baten Kaitos,59,Minkowski's Object
+625,Cetus,89,Baten Kaitos,92,Wolf-Lundmark-Melotte
+626,Cetus,121,Diphda,15,Cetus A
+627,Cetus,121,Diphda,59,Minkowski's Object
+628,Cetus,121,Diphda,92,Wolf-Lundmark-Melotte
+629,Cetus,164,Kaffaljidhma,15,Cetus A
+630,Cetus,164,Kaffaljidhma,59,Minkowski's Object
+631,Cetus,164,Kaffaljidhma,92,Wolf-Lundmark-Melotte
+632,Cetus,196,Menkar,15,Cetus A
+633,Cetus,196,Menkar,59,Minkowski's Object
+634,Cetus,196,Menkar,92,Wolf-Lundmark-Melotte
+635,Cetus,209,Mira,15,Cetus A
+636,Cetus,209,Mira,59,Minkowski's Object
+637,Cetus,209,Mira,92,Wolf-Lundmark-Melotte
+638,Aries,94,Bharani,-1,
+639,Aries,96,Botein,-1,
+640,Aries,152,Hamal,-1,
+641,Aries,181,Lilii Borea,-1,
+642,Aries,203,Mesarthim,-1,
+643,Aries,281,Sheratan,-1,
+644,Libra,97,Brachium,28,Fath 703
+645,Libra,334,Zubenelgenubi,28,Fath 703
+646,Libra,335,Zubenelhakrabi,28,Fath 703
+647,Libra,336,Zubeneschamali,28,Fath 703
+648,Ara,106,Cervantes,-1,
+649,Canes Venatici,109,Chara,26,Eye of Sauron
+650,Canes Venatici,109,Chara,38,Hockey Stick Galaxy
+651,Canes Venatici,109,Chara,83,Sunflower Galaxy
+652,Canes Venatici,109,Chara,89,Whale galaxy
+653,Canes Venatici,112,Cor Caroli,26,Eye of Sauron
+654,Canes Venatici,112,Cor Caroli,38,Hockey Stick Galaxy
+655,Canes Venatici,112,Cor Caroli,83,Sunflower Galaxy
+656,Canes Venatici,112,Cor Caroli,89,Whale galaxy
+657,Canes Venatici,176,La Superba,26,Eye of Sauron
+658,Canes Venatici,176,La Superba,38,Hockey Stick Galaxy
+659,Canes Venatici,176,La Superba,83,Sunflower Galaxy
+660,Canes Venatici,176,La Superba,89,Whale galaxy
+661,Hercules,113,Cujam,36,Hercules A
+662,Hercules,173,Kornephoros,36,Hercules A
+663,Hercules,182,Maasym,36,Hercules A
+664,Hercules,188,Marsic,36,Hercules A
+665,Hercules,229,Ogma,36,Hercules A
+666,Hercules,251,Rasalgethi,36,Hercules A
+667,Hercules,271,Sarin,36,Hercules A
+668,Fornax,116,Dalim,30,Fornax A
+669,Fornax,116,Dalim,31,Fornax Dwarf
+670,Coma Berenices,120,Diadem,7,Black Eye Galaxy
+671,Coma Berenices,120,Diadem,19,Coma Cluster
+672,Coma Berenices,120,Diadem,20,Coma Pinwheel Galaxy
+673,Coma Berenices,120,Diadem,52,Malin 1
+674,Coma Berenices,120,Diadem,58,Mice Galaxies
+675,Coma Berenices,120,Diadem,60,Needle Galaxy
+676,Virgo,127,Elgafar,10,Butterfly Galaxies
+677,Virgo,127,Elgafar,27,Eyes Galaxies
+678,Virgo,127,Elgafar,54,McLeish's Object
+679,Virgo,127,Elgafar,67,Reinmuth 80
+680,Virgo,127,Elgafar,76,Sombrero Galaxy
+681,Virgo,127,Elgafar,88,Virgo A
+682,Virgo,127,Elgafar,91,Wild's Triplet
+683,Virgo,156,Heze,10,Butterfly Galaxies
+684,Virgo,156,Heze,27,Eyes Galaxies
+685,Virgo,156,Heze,54,McLeish's Object
+686,Virgo,156,Heze,67,Reinmuth 80
+687,Virgo,156,Heze,76,Sombrero Galaxy
+688,Virgo,156,Heze,88,Virgo A
+689,Virgo,156,Heze,91,Wild's Triplet
+690,Virgo,165,Kang,10,Butterfly Galaxies
+691,Virgo,165,Kang,27,Eyes Galaxies
+692,Virgo,165,Kang,54,McLeish's Object
+693,Virgo,165,Kang,67,Reinmuth 80
+694,Virgo,165,Kang,76,Sombrero Galaxy
+695,Virgo,165,Kang,88,Virgo A
+696,Virgo,165,Kang,91,Wild's Triplet
+697,Virgo,170,Khambalia,10,Butterfly Galaxies
+698,Virgo,170,Khambalia,27,Eyes Galaxies
+699,Virgo,170,Khambalia,54,McLeish's Object
+700,Virgo,170,Khambalia,67,Reinmuth 80
+701,Virgo,170,Khambalia,76,Sombrero Galaxy
+702,Virgo,170,Khambalia,88,Virgo A
+703,Virgo,170,Khambalia,91,Wild's Triplet
+704,Virgo,180,Lich,10,Butterfly Galaxies
+705,Virgo,180,Lich,27,Eyes Galaxies
+706,Virgo,180,Lich,54,McLeish's Object
+707,Virgo,180,Lich,67,Reinmuth 80
+708,Virgo,180,Lich,76,Sombrero Galaxy
+709,Virgo,180,Lich,88,Virgo A
+710,Virgo,180,Lich,91,Wild's Triplet
+711,Virgo,207,Minelauva,10,Butterfly Galaxies
+712,Virgo,207,Minelauva,27,Eyes Galaxies
+713,Virgo,207,Minelauva,54,McLeish's Object
+714,Virgo,207,Minelauva,67,Reinmuth 80
+715,Virgo,207,Minelauva,76,Sombrero Galaxy
+716,Virgo,207,Minelauva,88,Virgo A
+717,Virgo,207,Minelauva,91,Wild's Triplet
+718,Virgo,243,Porrima,10,Butterfly Galaxies
+719,Virgo,243,Porrima,27,Eyes Galaxies
+720,Virgo,243,Porrima,54,McLeish's Object
+721,Virgo,243,Porrima,67,Reinmuth 80
+722,Virgo,243,Porrima,76,Sombrero Galaxy
+723,Virgo,243,Porrima,88,Virgo A
+724,Virgo,243,Porrima,91,Wild's Triplet
+725,Virgo,285,Spica,10,Butterfly Galaxies
+726,Virgo,285,Spica,27,Eyes Galaxies
+727,Virgo,285,Spica,54,McLeish's Object
+728,Virgo,285,Spica,67,Reinmuth 80
+729,Virgo,285,Spica,76,Sombrero Galaxy
+730,Virgo,285,Spica,88,Virgo A
+731,Virgo,285,Spica,91,Wild's Triplet
+732,Virgo,290,Syrma,10,Butterfly Galaxies
+733,Virgo,290,Syrma,27,Eyes Galaxies
+734,Virgo,290,Syrma,54,McLeish's Object
+735,Virgo,290,Syrma,67,Reinmuth 80
+736,Virgo,290,Syrma,76,Sombrero Galaxy
+737,Virgo,290,Syrma,88,Virgo A
+738,Virgo,290,Syrma,91,Wild's Triplet
+739,Virgo,318,Vindemiatrix,10,Butterfly Galaxies
+740,Virgo,318,Vindemiatrix,27,Eyes Galaxies
+741,Virgo,318,Vindemiatrix,54,McLeish's Object
+742,Virgo,318,Vindemiatrix,67,Reinmuth 80
+743,Virgo,318,Vindemiatrix,76,Sombrero Galaxy
+744,Virgo,318,Vindemiatrix,88,Virgo A
+745,Virgo,318,Vindemiatrix,91,Wild's Triplet
+746,Virgo,328,Zaniah,10,Butterfly Galaxies
+747,Virgo,328,Zaniah,27,Eyes Galaxies
+748,Virgo,328,Zaniah,54,McLeish's Object
+749,Virgo,328,Zaniah,67,Reinmuth 80
+750,Virgo,328,Zaniah,76,Sombrero Galaxy
+751,Virgo,328,Zaniah,88,Virgo A
+752,Virgo,328,Zaniah,91,Wild's Triplet
+753,Virgo,330,Zavijava,10,Butterfly Galaxies
+754,Virgo,330,Zavijava,27,Eyes Galaxies
+755,Virgo,330,Zavijava,54,McLeish's Object
+756,Virgo,330,Zavijava,67,Reinmuth 80
+757,Virgo,330,Zavijava,76,Sombrero Galaxy
+758,Virgo,330,Zavijava,88,Virgo A
+759,Virgo,330,Zavijava,91,Wild's Triplet
+760,Columba,128,Elkurud,-1,
+761,Columba,233,Phact,-1,
+762,Columba,320,Wazn,-1,
+763,Piscis Austrinus,137,Fomalhaut,-1,
+764,Canis Minor,146,Gomeisa,-1,
+765,Canis Minor,246,Procyon,-1,
+766,Centaurus,150,Hadar,4,Backward Galaxy
+767,Centaurus,150,Hadar,14,Centaurus A
+768,Centaurus,150,Hadar,32,Fourcade-Figueroa object
+769,Centaurus,150,Hadar,34,Hardcastle Nebula
+770,Centaurus,150,Hadar,71,Seashell Galaxy
+771,Centaurus,197,Menkent,4,Backward Galaxy
+772,Centaurus,197,Menkent,14,Centaurus A
+773,Centaurus,197,Menkent,32,Fourcade-Figueroa object
+774,Centaurus,197,Menkent,34,Hardcastle Nebula
+775,Centaurus,197,Menkent,71,Seashell Galaxy
+776,Centaurus,248,Proxima Centauri,4,Backward Galaxy
+777,Centaurus,248,Proxima Centauri,14,Centaurus A
+778,Centaurus,248,Proxima Centauri,32,Fourcade-Figueroa object
+779,Centaurus,248,Proxima Centauri,34,Hardcastle Nebula
+780,Centaurus,248,Proxima Centauri,71,Seashell Galaxy
+781,Centaurus,257,Rigil Kentaurus,4,Backward Galaxy
+782,Centaurus,257,Rigil Kentaurus,14,Centaurus A
+783,Centaurus,257,Rigil Kentaurus,32,Fourcade-Figueroa object
+784,Centaurus,257,Rigil Kentaurus,34,Hardcastle Nebula
+785,Centaurus,257,Rigil Kentaurus,71,Seashell Galaxy
+786,Centaurus,309,Toliman,4,Backward Galaxy
+787,Centaurus,309,Toliman,14,Centaurus A
+788,Centaurus,309,Toliman,32,Fourcade-Figueroa object
+789,Centaurus,309,Toliman,34,Hardcastle Nebula
+790,Centaurus,309,Toliman,71,Seashell Galaxy
+791,Equuleus,171,Kitalpha,-1,
+792,Ursa Minor,172,Kochab,87,Ursa Minor Dwarf
+793,Ursa Minor,235,Pherkad,87,Ursa Minor Dwarf
+794,Ursa Minor,239,Polaris,87,Ursa Minor Dwarf
+795,Ursa Minor,327,Yildun,87,Ursa Minor Dwarf
+796,Corona Australis,201,Meridiana,-1,
+797,Triangulum,216,Mothallah,86,Triangulum Galaxy
+798,Pavo,232,Peacock,-1,
+799,Octans,240,Polaris Australis,-1,
+800,Leo Minor,244,Praecipua,-1,
+801,Sagitta,278,Sham,-1,
+802,Camelopardalis,310,Tonatiuh,40,Integral Sign Galaxy
